@@ -13,15 +13,15 @@ Just created the Youtube video browsing app, with Vue.js and the YouTube Data AP
 * JavaScript
 * Vue.js / Vue CLI
 * Node.js / npm
-* jQuery
-* YouTube Data API
+* [YouTube Data API](https://developers.google.com/youtube/v3)
 * axios
+* jQuery
 * [lity.js](https://sorgalla.com/lity/) 
-* Semantic UI
+* [Semantic UI](https://semantic-ui.com/)
 
 ## App Usage
 
-Input the search term and push the search button. Then you can see the list of the suitable Youtube-videos. If you click the each video-image, you can watch the video in the modal-window.
+Input the search term and click the search button. Then you can see the card-list of the vider search results. If you click the each video-image, you can watch the video in the modal-window.
 
 
 ## Features
