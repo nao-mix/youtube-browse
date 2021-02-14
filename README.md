@@ -42,8 +42,7 @@ Im header vom HTML füge litys JavaScript und CSS Files und jQuery-JS ein.
 ###### Ein Card-Beispiel
 <img src="images/card.jpg" alt="card" width="300"><br>
 
-Im img-Tag vom Video-Thimbnail-Image füge das Attribut "data-lity" einfach hinzu. 
-Wenn man das Thimbnail-Image klickt, wird das Video-URL ("videoSrc" has das Link) im litys Modal-Window geöffnet.
+Im diesem APP, wenn man das Thimbnail-Image klickt, wird das Video-URL ("videoSrc" has das Link) im litys Modal-Window geöffnet. Dafür braucht man einfach im img-Tag (Video-Thimbnail, Oberteil der Card) das Attribut "data-lity" hinzufügen.
 
 ###### VideoListItem.vue
 <img src="images/img-div.jpg" alt="div" width="600"><br>
