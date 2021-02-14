@@ -1,7 +1,7 @@
 <template>
 <div class="orange card">
     <div class="image">
-        <img :src="thimbnailUrl" data-lity="data-lity" :href="videoSrc">
+        <img :src="thimbnailUrl" data-lity :href="videoSrc">
     </div>
     <div class="textZone">
         <div>
