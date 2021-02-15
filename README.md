@@ -15,7 +15,7 @@ Einfach erstellte ein Youtube Video-Browsing App, mit JavaScript, Vue.js und You
 * Node.js / npm
 * [YouTube Data API](https://developers.google.com/youtube/v3)
 * axios
-* [lity.js (requires jQuery)](https://sorgalla.com/lity/) 
+* [lity.js](https://sorgalla.com/lity/) (requires jQuery)
 * [Semantic UI](https://semantic-ui.com/)
 
 ## App Usage
@@ -42,7 +42,7 @@ Im header vom HTML füge litys JavaScript und CSS Files und jQuery-JS ein.
 ###### Ein Card-Beispiel
 <img src="images/card.jpg" alt="card" width="300"><br>
 
-Im diesem APP, wenn man das Thimbnail-Image klickt, wird das Video-URL ("videoSrc" has das Link) im litys Modal-Window geöffnet. Dafür braucht man einfach im img-Tag (Video-Thimbnail, Oberteil der Card) das Attribut "data-lity" hinzufügen.
+Im diesem APP, wenn man das Thimbnail-Image klickt, wird das Video-URL ("videoSrc" has das Link) im litys Modal-Window geöffnet. Dafür braucht man einfach im img-Tag (Video-Thimbnail, Oberteil der Card) das Attribut "data-lity" hinzuzufügen.
 
 ###### VideoListItem.vue
 <img src="images/img-div.jpg" alt="div" width="600"><br>
