@@ -1,6 +1,6 @@
 # video-browser
 
-### Link to the app: [https://aufderreise.com/yt-app/](https://aufderreise.com/yt-app/)
+### Link to the app: [https://stackblitz.com/edit/naomix-youtube-app](https://stackblitz.com/edit/naomix-youtube-app)
 
 ## About The Project
 
